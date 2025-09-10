@@ -1,0 +1,6 @@
+Pada Praktikum kedua ini melakukan percobaan dengan mendeteksi warna secara real time pada titik atau pada kotak untuk mendeteksi warna objek. 
+Pada awal terlebih dahulu clone antara github dengan Visual Studio Code dan setelah itu memasukkan coding yang dimana sebelum nya hanya mendeteksi warna primer kemudian dilakukan penambahan kode untuk dapat mendeteksi warna lain. 
+Sebelum melakukan running diharuskan mendownload datasheet pada kaggle yang digunakan sebagai refrensi warna 
+Setelah warna terdeteksi akan muncul visualisasi pada layar dengan label teks pada objek tersebut sebagai penjelas warna, dan juga akan menampilkan tingkat keakurasian deteksi warna yang dinyatakan dalam persen
+Kamera dan cahaya sangat berpengaruh terhadap tingkat keakurasian warna
+Metode ini menggunakan algoritma machine yaitu learning K-Nearest Neighbors (KNN) yang diimplementasikan untuk klasifikasi objek berdasarkan fitur warna RGB dapat menghasilkan performa yang cukup baik dalam mendeteksi warna objek
